@@ -1,0 +1,2 @@
+1.Tính đồng nhất (Uniformity): Hàm băm nên phân phối giá trị băm một cách đều đặn trên không gian đầu ra. => giúp giảm thiểu xung đột khi nhiều đầu vào khác nhau có cùng hàm băm giá trị.
+2.Tính kháng va chạm (Chống va chạm):Tính kháng va chạm có nghĩa là rất khó hoặc gần như không thể tìm ra hai đầu vào khác nhau nhưng có cùng giá trị băm
