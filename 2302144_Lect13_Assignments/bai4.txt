@@ -1,0 +1,10 @@
+/^.{3}\..{3}\..{3}\..{3}$/
+
+Giải thích:
+^ và $: Bắt đầu và kết thúc chuỗi
+
+.{3}: 3 ký tự bất kỳ (trừ xuống dòng)
+
+\.: Dấu chấm (phải escape bằng \)
+
+Lặp lại mẫu .{3}\. 3 lần

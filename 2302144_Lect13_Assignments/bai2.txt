@@ -1,0 +1,11 @@
+abc → Khớp (a, b, c)
+
+abbbbbbbb → Khớp (a, b, rồi nhiều b)
+
+azc → Khớp (a, z, c)
+
+abcbcbcbc → Khớp (a, b, rồi xen kẽ b/c)
+
+ac → Không khớp (thiếu ký tự giữa a và c)
+
+azccbbbbcbccc → Khớp (a, z, rồi hỗn hợp b/c)

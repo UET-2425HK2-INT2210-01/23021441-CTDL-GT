@@ -1,0 +1,12 @@
+/^[a-zA-Z0-9]+([-_ ][a-zA-Z0-9]+)*$/
+
+Giải thích:
+
+[a-zA-Z0-9]+: Ít nhất 1 ký tự chữ/số ở đầu
+
+([-_ ][a-zA-Z0-9]+)*: Lặp lại nhóm gồm:
+
+Dấu phân cách (-, _, hoặc khoảng trắng)
+
+Theo sau bởi ít nhất 1 chữ/số
+

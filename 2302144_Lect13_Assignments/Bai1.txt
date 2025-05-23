@@ -1,0 +1,9 @@
+<an xml tag>: khớp
+
+<opentag> <closetag> : không khớp do xuất hiện dấu  > ở đoạn giữa 
+
+</closetag>: khớp
+ 
+<> : không khớp do cần ít nhất 1  kí tự ở giữa < ktu >
+
+<with attribute="77"> : khớp

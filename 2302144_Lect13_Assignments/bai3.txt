@@ -1,0 +1,19 @@
+
+Biểu thức khớp:
+
+Ít nhất 1 lần "very " ((very )+)
+
+Tùy chọn "fat " ((fat )?)
+
+"tall" hoặc "ugly" ((tall|ugly))
+
+Kết thúc bằng man
+
+1."very fat man" → Thiếu tall/ugly
+
+2."fat tall man" → Thiếu "very "
+
+3."very very fat ugly man" → Khớp
+
+4."very very very tall man" → Khớp
+

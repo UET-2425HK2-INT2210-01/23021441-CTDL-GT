@@ -1,0 +1,8 @@
+/^\(?\d{3}\)?[-. ]?\d{3}[-. ]?\d{4}$/
+Giải thích:
+
+\(? và \)?: Dấu ngoặc đơn tùy chọn
+
+\d{3} và \d{4}: Nhóm 3 hoặc 4 chữ số
+
+[-. ]?: Dấu phân cách tùy chọn (gạch ngang, chấm, hoặc khoảng trắng)
